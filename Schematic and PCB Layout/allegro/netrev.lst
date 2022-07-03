@@ -1,0 +1,98 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : SCHIVATO.brd                                  )
+(    Software Version : 17.2S079                                      )
+(    Date/Time        : Mon Jan 10 22:16:29 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:\USERS\UTENTE\DOWNLOADS\SCHIVATOFINALE\SCHIVATO\SCHEMATIC AND PCB LAYOUT\allegro'
+Design Directory:            'C:/USERS/UTENTE/DOWNLOADS/SCHIVATOFINALE/SCHIVATO/SCHEMATIC AND PCB LAYOUT/allegro'
+Old design name:             'C:/Users/Utente/Downloads/SchivaTOfinale/SchivaTO/Schematic and PCB Layout/allegro/SCHIVATO.brd'
+New design name:             'C:/USERS/UTENTE/DOWNLOADS/SCHIVATOFINALE/SCHIVATO/SCHEMATIC AND PCB LAYOUT/allegro/SCHIVATO.brd'
+
+CmdLine: netrev.exe -y 1 -i C:\USERS\UTENTE\DOWNLOADS\SCHIVATOFINALE\SCHIVATO\SCHEMATIC AND PCB LAYOUT\allegro C:\Users\Utente\Downloads\SchivaTOfinale\SchivaTO\Schematic and PCB Layout\allegro\SCHIVATO.brd C:\USERS\UTENTE\DOWNLOADS\SCHIVATOFINALE\SCHIVATO\SCHEMATIC AND PCB LAYOUT\allegro\SCHIVATO.brd
+
+------ Preparing to read pst files ------
+
+Starting to read C:/USERS/UTENTE/DOWNLOADS/SCHIVATOFINALE/SCHIVATO/SCHEMATIC AND PCB LAYOUT/allegro/pstchip.dat 
+   Finished reading C:/USERS/UTENTE/DOWNLOADS/SCHIVATOFINALE/SCHIVATO/SCHEMATIC AND PCB LAYOUT/allegro/pstchip.dat (00:00:00.02)
+Starting to read C:/USERS/UTENTE/DOWNLOADS/SCHIVATOFINALE/SCHIVATO/SCHEMATIC AND PCB LAYOUT/allegro/pstxprt.dat 
+   Finished reading C:/USERS/UTENTE/DOWNLOADS/SCHIVATOFINALE/SCHIVATO/SCHEMATIC AND PCB LAYOUT/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/USERS/UTENTE/DOWNLOADS/SCHIVATOFINALE/SCHIVATO/SCHEMATIC AND PCB LAYOUT/allegro/pstxnet.dat 
+   Finished reading C:/USERS/UTENTE/DOWNLOADS/SCHIVATOFINALE/SCHIVATO/SCHEMATIC AND PCB LAYOUT/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           d:/cadence17.2/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/cadence17.2/share/local/pcb/symbols 
+           d:/cadence17.2/share/pcb/pcb_lib/symbols 
+           d:/cadence17.2/share/pcb/allegrolib/symbols 
+           C:/Users/Utente/Desktop/SchivaTO/SchivaTO/FootprintLibrary 
+           C:/Users/Utente/Desktop/SchivaTO/SchivaTO/SchivaTO/FootprintLibrary/ 
+           C:/Users/Utente/Desktop/SchivaTO/Schematic and PCB Layout/FootprintLibrary/ 
+           C:/Users/Utente/Downloads/SchivaTOfinale/SchivaTO/Schematic and PCB Layout/FootprintLibrary/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/cadence17.2/share/local/pcb/padstacks 
+           d:/cadence17.2/share/pcb/pcb_lib/symbols 
+           d:/cadence17.2/share/pcb/allegrolib/symbols 
+           C:/Users/Utente/Desktop/SchivaTO/SchivaTO/PadstackLibrary 
+           C:/Users/Utente/Desktop/SchivaTO/SchivaTO/SchivaTO/PadstackLibrary/ 
+           C:/Users/Utente/Desktop/SchivaTO/Schematic and PCB Layout/PadstackLibrary/ 
+           C:/Users/Utente/Downloads/SchivaTOfinale/SchivaTO/Schematic and PCB Layout/PadstackLibrary/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jan 10 22:16:29 2022
+   DESIGN NAME : 'SCHIVATO'
+   PACKAGING ON Nov 12 2021 16:47:14
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:20
+elapsed time  0:00:00
+

@@ -1,0 +1,26 @@
+M48
+METRIC,TZ
+T01C2.4
+;EXTENTS: 0.000   0.000   533.400 431.800 
+;LEADER: 12 
+;HEADER: 
+;CODE  : ASCII 
+;FILE  : C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/Gerbers/SCHIVATO_1-2.rou for board C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/Schematic and PCB Layout/allegro/#Taaaade19196.tmp, layers TOP to BOTTOM
+%
+G90
+F1
+M16
+T01
+M16
+G00X298410Y276065
+G40
+M15
+G01X298410Y276065
+M16
+G00X311550Y276065
+G40
+M15
+G01X311550Y276065
+M16
+G40
+M30

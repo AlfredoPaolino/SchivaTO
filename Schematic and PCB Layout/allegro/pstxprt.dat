@@ -1,0 +1,500 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jan-10-2022 at 22:16:29 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SCHIVATO';
+ POST_TIME='Nov 12 2021 16:47:14';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ A1 'ANTENNA_PATCHANTENNA_ANTENNA':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS94834@POWERMANAGEMENTLIB.ANTENNA.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins94834@powermanagementlib.\antenna.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page2_ins94834@powermanagementlib.\antenna.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ BATCONN 'B2S_JST-XH2P-ST_JST-XH2P-ST':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS9228@CONNECTOR.B2S.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins9228@connector.\b2s.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page3_ins9228@connector.\b2s.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1 'CAPACITOR_0603CAPACITORS_12PF':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS62426@ESE_PROJECT_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins62426@ese_project_lib.\capacitor.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page2_ins62426@ese_project_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'C_0603CAPACITORS_10UF':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS2313@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins2313@analog.\c.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page1_ins2313@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'C_0603CAPACITORS_100NF':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS2168@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins2168@analog.\c.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page1_ins2168@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'C_0603CAPACITORS_10UF':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS3682@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins3682@analog.\c.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page1_ins3682@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'C_0603CAPACITORS_100NF':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS3698@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins3698@analog.\c.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page1_ins3698@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'C_0603CAPACITORS_100NF':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS3714@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins3714@analog.\c.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page1_ins3714@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'C_0603CAPACITORS_1NF':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS13140@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins13140@analog.\c.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page2_ins13140@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'C_0603CAPACITORS_100NF':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS14362@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins14362@analog.\c.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page2_ins14362@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'C_0603CAPACITORS_10UF':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS12279@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins12279@analog.\c.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page3_ins12279@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'C_0603CAPACITORS_10UF':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS12510@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins12510@analog.\c.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page3_ins12510@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'C_0603CAPACITORS_1UF':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS10092@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins10092@analog.\c.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page3_ins10092@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR_0603CAPACITORS_1.2PF':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS62494@ESE_PROJECT_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins62494@ese_project_lib.\capacitor.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page2_ins62494@ese_project_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'C_0603CAPACITORS_1UF':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS10185@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins10185@analog.\c.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page3_ins10185@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR_0603CAPACITORS_1.2PF':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS62478@ESE_PROJECT_LIB.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins62478@ese_project_lib.\capacitor.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page2_ins62478@ese_project_lib.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_0603CAPACITORS_1UF':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS552@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins552@analog.\c.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page1_ins552@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'C_0603CAPACITORS_12PF':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS1678@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins1678@analog.\c.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page1_ins1678@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C_0603CAPACITORS_12PF':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS1611@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins1611@analog.\c.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page1_ins1611@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'C_0603CAPACITORS_100NF':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS723@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins723@analog.\c.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page1_ins723@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'C_0603CAPACITORS_100NF':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS2446@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins2446@analog.\c.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page1_ins2446@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'C_0603CAPACITORS_100NF':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS2379@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins2379@analog.\c.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page1_ins2379@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_AA3021LZGSK_AA3021LZGSK':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS9834@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins9834@discrete.\led.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page3_ins9834@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FL1 'L_0603FERRITE_BLM18HE152SN1':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS3297@ANALOG.L.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins3297@analog.\l.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page1_ins3297@analog.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ IRLED 'LED_IR333A_IR333A':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS13547@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins13547@discrete.\led.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page2_ins13547@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JTAGCONN 'FTSH-105-01-F-DV_JTAGCONN_FTSH-':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS61667@ESE_PROJECT_LIB.FTSH-105-01-F-DV.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins61667@ese_project_lib.\ftsh-105-01-f-dv.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page2_ins61667@ese_project_lib.\ftsh-105-01-f-dv.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_0603IMPEDANCE_2NH':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS62410@ESE_PROJECT_LIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins62410@ese_project_lib.\inductor.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page2_ins62410@ese_project_lib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_0603IMPEDANCE_15NH':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS62382@ESE_PROJECT_LIB.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins62382@ese_project_lib.\inductor.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page2_ins62382@ese_project_lib.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'L_0603IMPEDANCE_10UH':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS3638@ANALOG.L.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins3638@analog.\l.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page1_ins3638@analog.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P1 'POT_3362HXX_3362H-1-502':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS13438@BREAKOUT.POT.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins13438@breakout.\pot.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page2_ins13438@breakout.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P2 'POT_3362HXX_3362H-1-103':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS13017@BREAKOUT.POT.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins13017@breakout.\pot.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page2_ins13017@breakout.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ PLED 'LED_AA3021LZGSK_AA3021LZGSK':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS14244@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins14244@discrete.\led.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page2_ins14244@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_0603RESISTORS_100K':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS757@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins757@analog.\r.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page1_ins757@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_0603RESISTORS_1.5K':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS9863@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins9863@analog.\r.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page3_ins9863@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_0603RESISTORS_22':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS83641@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins83641@analog.\r.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page3_ins83641@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_0603RESISTORS_22K':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS12906@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins12906@analog.\r.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page2_ins12906@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_0603RESISTORS_22K':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS13258@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins13258@analog.\r.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page2_ins13258@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_0603RESISTORS_2.2K':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS14073@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins14073@analog.\r.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page2_ins14073@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_0603RESISTORS_2.2K':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS14260@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins14260@analog.\r.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page2_ins14260@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SLED 'LED_AA3528SESK_AA3528LSECKT/J3':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS14042@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins14042@discrete.\led.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page2_ins14042@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW SLIDE-SPDT_SS3-H_SPDT SS3-H':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS91756@DISCRETE.SW SLIDE-SPDT.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins91756@discrete.\sw slide-spdt.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page3_ins91756@discrete.\sw slide-spdt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'CC2640F128RSMR_CC2640_CC2640RSM':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS143@2021-11-20_17-38-21.CC2640F128RSMR.NORMAL(SCH_1)':
+ C_PATH='@schivato.schivato(sch_1):ins143@\2021-11-20_17-38-21\.\cc2640f128rsmr.normal\(sch_1)',
+ P_PATH='@schivato.schivato(sch_1):page1_ins143@\2021-11-20_17-38-21\.\cc2640f128rsmr.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'USB A1HSW6_A1HSW6_USB A1HSW6':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS88965@POWERMANAGEMENTLIB.USB A1HSW6.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins88965@powermanagementlib.\usb a1hsw6.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page3_ins88965@powermanagementlib.\usb a1hsw6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'MAXIM MAX 1555_MAXIM1555_MAXIM1':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS9799@POWERMANAGEMENTLIB.MAXIM MAX 1555.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins9799@powermanagementlib.\maxim max 1555.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page3_ins9799@powermanagementlib.\maxim max 1555.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'TLV702XX_TLV70212DBVR_TLV70212D':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS80666@POWERMANAGEMENTLIB.TLV702XX.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins80666@powermanagementlib.\tlv702xx.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page3_ins80666@powermanagementlib.\tlv702xx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'HS0038B3VM_HS0038B3VM_HS0038B3V':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS82004@POWERMANAGEMENTLIB.HS0038B3VM.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins82004@powermanagementlib.\hs0038b3vm.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page2_ins82004@powermanagementlib.\hs0038b3vm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'NE555DR_NE555DR_NE555DR':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS79334@POWERMANAGEMENTLIB.NE555DR.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins79334@powermanagementlib.\ne555dr.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page2_ins79334@powermanagementlib.\ne555dr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_IQXC-90_IQXC-90':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS8160@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins8160@discrete.\crystal.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page1_ins8160@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y2 'CRYSTAL1-4/SM_0_IQXC-26_IQXC-26':;
+
+SECTION_NUMBER 1
+ '@SCHIVATO.SCHIVATO(SCH_1):INS8527@SCHIVATO.CRYSTAL1-4/SM_0.NORMAL(CHIPS)':
+ C_PATH='@schivato.schivato(sch_1):ins8527@schivato.\crystal1-4/sm_0.normal\(chips)',
+ P_PATH='@schivato.schivato(sch_1):page1_ins8527@schivato.\crystal1-4/sm_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

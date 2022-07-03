@@ -1,0 +1,152 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : SCHIVATO.brd                                  )
+(    Software Version : 17.2S079                                      )
+(    Date/Time        : Sun Dec 26 18:32:09 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sun Dec 26 18:32:09 2021				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/Schematic and PCB Layout/allegro/SCHI~
+VATO.brd'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.2/share/local/pcb/symbols 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+           C:/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/FootprintLibrary/ 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/SchivaTO/FootprintLibrary/ 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/Schematic and PCB Layout/FootprintLibrary/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.2/share/local/pcb/padstacks 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+           C:/ORCAD_PERSONAL_LIBRARY/PADSTACKS 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/PadstackLibrary/ 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/SchivaTO/PadstackLibrary/ 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/Schematic and PCB Layout/PadstackLibrary/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'PTH_SQ0D5'  pad stack refresh starting.
+
+     'PTH_SQ0D5'  pad stack refreshed successfully.
+     
+'PTH_C0D5'  pad stack refresh starting.
+
+     'PTH_C0D5'  pad stack refreshed successfully.
+     
+'PTH_C2D4NOPLATE'  pad stack refresh starting.
+
+     'PTH_C2D4NOPLATE'  pad stack refreshed successfully.
+     
+'PTH_C1D1'  pad stack refresh starting.
+
+     'PTH_C1D1'  pad stack refreshed successfully.
+     
+WARNING(SPMHNI-253): Unable to find pad stack, 'VIA_0D3_0D8_UNCOVERED', in directory search path.
+
+'VIA_0D3_0D6_UNCOVERED'  pad stack refresh starting.
+
+     'VIA_0D3_0D6_UNCOVERED'  pad stack refreshed successfully.
+     
+'VIA_0D3_0D6_TENTED'  pad stack refresh starting.
+
+     'VIA_0D3_0D6_TENTED'  pad stack refreshed successfully.
+     
+'VIA'  pad stack refresh starting.
+
+     'VIA'  pad stack refreshed successfully.
+     
+'SMD_RECT_0D6_0D5'  pad stack refresh starting.
+
+     'SMD_RECT_0D6_0D5'  pad stack refreshed successfully.
+     
+'SMD_RECT_0D5_1D0'  pad stack refresh starting.
+
+     'SMD_RECT_0D5_1D0'  pad stack refreshed successfully.
+     
+'SMD_ROUNDRECT_1D55_0D6'  pad stack refresh starting.
+
+     'SMD_ROUNDRECT_1D55_0D6'  pad stack refreshed successfully.
+     
+'PTH_SQ1D45'  pad stack refresh starting.
+
+     'PTH_SQ1D45'  pad stack refreshed successfully.
+     
+'PTH_C0D95'  pad stack refresh starting.
+
+     'PTH_C0D95'  pad stack refreshed successfully.
+     
+'SMD_ROUNDRECT_1D1_0D6'  pad stack refresh starting.
+
+     'SMD_ROUNDRECT_1D1_0D6'  pad stack refreshed successfully.
+     
+'SMD_RECT_1D2_0D5'  pad stack refresh starting.
+
+     'SMD_RECT_1D2_0D5'  pad stack refreshed successfully.
+     
+'SMD_ROUNDSQUARE_2D8_WITH_TERM'  pad stack refresh starting.
+
+     'SMD_ROUNDSQUARE_2D8_WITH_TERM'  pad stack refreshed successfully.
+     
+'SMD_ROUNDRECT_0D2_0D55'  pad stack refresh starting.
+
+     'SMD_ROUNDRECT_0D2_0D55'  pad stack refreshed successfully.
+     
+'PTH_C0D6'  pad stack refresh starting.
+
+     'PTH_C0D6'  pad stack refreshed successfully.
+     
+'PTH_SQ0D7'  pad stack refresh starting.
+
+     'PTH_SQ0D7'  pad stack refreshed successfully.
+     
+'PTH_C0D7'  pad stack refresh starting.
+
+     'PTH_C0D7'  pad stack refreshed successfully.
+     
+'SMD_RECT_1D5_2D2'  pad stack refresh starting.
+
+     'SMD_RECT_1D5_2D2'  pad stack refreshed successfully.
+     
+'SMD_ROUNDRECT_0D5_0D9'  pad stack refresh starting.
+
+     'SMD_ROUNDRECT_0D5_0D9'  pad stack refreshed successfully.
+     
+WARNING(SPMHNI-253): Unable to find pad stack, 'PTH_C0D9', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'PTH_SQ0D9', in directory search path.
+
+'SMD_RECT_0D5_0D9_ANTENNA_NO_MASKS'  pad stack refresh starting.
+
+     'SMD_RECT_0D5_0D9_ANTENNA_NO_MASKS'  pad stack refreshed successfully.
+     
+'SMD_RECT_0D5_0D5_ANTENNA_NO_MASKS'  pad stack refresh starting.
+
+     'SMD_RECT_0D5_0D5_ANTENNA_NO_MASKS'  pad stack refreshed successfully.
+     Sun Dec 26 18:32:09 2021				Page     2
+
+
+     
+WARNING(SPMHNI-286): Completed refreshing all pad stacks successfully. Warnings detected.

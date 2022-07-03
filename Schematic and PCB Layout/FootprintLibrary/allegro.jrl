@@ -1,0 +1,43 @@
+\t (00:00:01) allegro 17.2 S079 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Tue Jan 11 15:32:00 2022
+\t (00:00:01)         Host=LAPTOP-A44K7QVN User=Vincenzo Petrolo Pid=10836 CPUs=16
+\t (00:00:01) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Vincenzo Petrolo\OneDrive - Politecnico di Torino\Desktop\SchivaTO\Schematic and PCB Layout\FootprintLibrary\A1HSW6.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged A1HSW6
+\d (00:00:02) Design opened: C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/Schematic and PCB Layout/FootprintLibrary/A1HSW6.dra
+\i (00:00:02) trapsize 1126
+\i (00:00:02) trapsize 1171
+\i (00:00:02) trapsize 1220
+\i (00:00:02) trapsize 1171
+\i (00:00:03) trapsize 1126
+\i (00:00:03) trapsize 1126
+\i (00:00:03) generaledit 
+\i (00:00:07) refresh padstack 
+\i (00:00:10) setwindow form.rf_pad
+\i (00:00:10) FORM rf_pad reset_drill_data YES 
+\i (00:00:10) FORM rf_pad execute  
+\t (00:00:10) Starting Refreshing padstacks...
+\t (00:00:11) Opening existing design...
+\i (00:00:11) setwindow pcb
+\i (00:00:11) trapsize 1171
+\i (00:00:12) trapsize 1220
+\i (00:00:12) trapsize 1171
+\i (00:00:12) trapsize 1171
+\i (00:00:12) trapsize 1126
+\i (00:00:15) setwindow form.rf_pad
+\i (00:00:15) FORM rf_pad viewlog  
+\i (00:00:24) setwindow pcb
+\i (00:00:24) setwindow text
+\i (00:00:24) close
+\i (00:00:26) setwindow form.rf_pad
+\i (00:00:26) FORM rf_pad cancel  
+\i (00:00:26) setwindow pcb
+\i (00:00:26) generaledit 
+\i (00:00:28) save 
+\i (00:00:29) fillin yes 
+\t (00:00:29) Symbol 'a1hsw6.psm' created.
+\i (00:00:30) generaledit 
+\i (00:45:40) exit 
+\t (00:45:40)     Journal end - Tue Jan 11 16:17:39 2022

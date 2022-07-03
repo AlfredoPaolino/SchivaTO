@@ -1,0 +1,141 @@
+Tue Jan 11 15:09:43 2022				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Tue Jan 11 15:09:43 2022
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : SCHIVATO.brd                                  )
+(    Software Version : 17.2S079                                      )
+(    Date/Time        : Tue Jan 11 15:09:44 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Tue Jan 11 15:09:44 2022				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/Schematic and PCB Layout/allegro/SCHI~
+VATO.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'YES'
+Update shape/flash symbols             = 'YES'
+Update symbol padstacks                = 'YES'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.2/share/local/pcb/symbols 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+           C:/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/FootprintLibrary/ 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/SchivaTO/FootprintLibrary/ 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/Schematic and PCB Layout/FootprintLibrary/ 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/schivaTO_video_project/FOOTPRINT_LIBRARY/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.2/share/local/pcb/padstacks 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+           C:/ORCAD_PERSONAL_LIBRARY/PADSTACKS 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/PadstackLibrary/ 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/SchivaTO/PadstackLibrary/ 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/Schematic and PCB Layout/PadstackLibrary/ 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/schivaTO_video_project/PADSTACK_LIBRARY/ 
+
+
+------ Symbol Refresh Messages ------
+
+'NE555DR'  symbol refreshed successfully.
+'CC2640'  symbol refreshed successfully.
+'AA3021LZGSK'  symbol refreshed successfully.
+'JST-XH2P-ST'  symbol refreshed successfully.
+'A1HSW6'  symbol refreshed successfully.
+'JTAGCONN'  symbol refreshed successfully.
+'0603FERRITE'  symbol refreshed successfully.
+'TLV70212DBVR'  symbol refreshed successfully.
+'SS3-H'  symbol refreshed successfully.
+'IQXC-26'  symbol refreshed successfully.
+'IQXC-90'  symbol refreshed successfully.
+'MAXIM1555'  symbol refreshed successfully.
+'HS0038B3VM'  symbol refreshed successfully.
+'AA3528SESK'  symbol refreshed successfully.
+'3362HXX'  symbol refreshed successfully.
+'IR333A'  symbol refreshed successfully.
+'0603CAPACITORS'  symbol refreshed successfully.
+'0603IMPEDANCE'  symbol refreshed successfully.
+'PATCHANTENNA'  symbol refreshed successfully.
+
+'0603RESISTORS'  symbol starting to refresh:
+     ERROR(SPMHDB-243): Cannot modify element; the object or a parent has the FIXED property. [help]
+     ERROR(SPMHNI-254): Unable to load symbol, '0603RESISTORS': 'Cannot modify element; the object or a parent has the FIXED prope~
+     rty. [help]'.
+     
+'AB00'  symbol refreshed successfully.
+'CC2640THERMAL'  symbol refreshed successfully.
+
+
+------ Pad Stack Refresh Messages ------
+
+'SMD_RECT_0D5_1D0'  pad stack refreshed successfully.
+'SMD_ROUNDRECT_1D55_0D6'  pad stack refreshed successfully.
+'SMD_RECT_1D2_0D5'  pad stack refreshed successfully.
+'SMD_RECT_1D5_2D2'  pad stack refreshed successfully.
+'SMD_RECT_0D6_0D5'  pad stack refreshed successfully.
+'SMD_RECT_1D4_1D5'  pad stack refreshed successfully.
+'PTH_SQ0D5'  pad stack refreshed successfully.
+'PTH_C0D95'  pad stack refreshed successfully.
+'PTH_SQ0D7'  pad stack refreshed successfully.
+'PTH_SQ0D9'  pad stack refreshed successfully.
+'SMD_ROUNDSQUARE_2D8_WITH_TERM'  pad stack refreshed successfully.
+'PTH_SQ1D45'  pad stack refreshed successfully.
+'SMD_ROUNDRECT_1D1_0D6'  pad stack refreshed successfully.
+'PTH_C1D1'  pad stack refreshed successfully.
+'SMD_ROUNDRECT_0D5_0D9'  pad stack refreshed successfully.
+Tue Jan 11 15:09:44 2022				Page     2
+
+
+'PTH_C2D4NOPLATE'  pad stack refreshed successfully.
+'PTH_C0D5'  pad stack refreshed successfully.
+'SMD_RECT_0D5_0D5_ANTENNA_NO_MASKS'  pad stack refreshed successfully.
+'PTH_C0D6'  pad stack refreshed successfully.
+'PTH_C0D7'  pad stack refreshed successfully.
+'SMD_ROUNDRECT_0D2_0D55'  pad stack refreshed successfully.
+'PTH_C0D9'  pad stack refreshed successfully.
+'SMD_RECT_0D5_0D9_ANTENNA_NO_MASKS'  pad stack refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 21 out 22
+    Design updated.
+

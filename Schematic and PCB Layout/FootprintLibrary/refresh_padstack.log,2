@@ -1,0 +1,61 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : A1HSW6.dra                                    )
+(    Software Version : 17.2S079                                      )
+(    Date/Time        : Tue Jan 11 15:08:55 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Tue Jan 11 15:08:55 2022				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/Schematic and PCB Layout/FootprintLib~
+rary/A1HSW6.dra'
+Output design = ''
+Reset symbol text and size locations   = 'YES'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.2/share/local/pcb/symbols 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+           C:/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/FootprintLibrary/ 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/SchivaTO/FootprintLibrary/ 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/Schematic and PCB Layout/FootprintLibrary/ 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/schivaTO_video_project/FOOTPRINT_LIBRARY/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.2/share/local/pcb/padstacks 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+           C:/ORCAD_PERSONAL_LIBRARY/PADSTACKS 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/PadstackLibrary/ 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/SchivaTO/PadstackLibrary/ 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/Schematic and PCB Layout/PadstackLibrary/ 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/schivaTO_video_project/PADSTACK_LIBRARY/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'PTH_C2D4NOPLATE'  pad stack refresh starting.
+
+     'PTH_C2D4NOPLATE'  pad stack refreshed successfully.
+     
+'PTH_C1D1'  pad stack refresh starting.
+
+     'PTH_C1D1'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

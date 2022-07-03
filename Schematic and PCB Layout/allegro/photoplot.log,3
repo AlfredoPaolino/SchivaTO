@@ -1,0 +1,578 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : SCHIVATO.brd                                  )
+(    Software Version : 17.2S079                                      )
+(    Date/Time        : Tue Jan 11 15:25:39 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/Schematic and PCB Layout/allegro/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0001
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Film contains objects with associated DRCs (2).
+           In the design editor view this film and enable visibility for the
+           associated DRC layer. Verify the DRCs are approved exceptions to your rules.
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.15300                                  DARK 
+  CIRCLE     0.18000                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.10000                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.45000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     2.40000                                  DARK 
+  SQUARE     0.50010                     0.000 NO     DARK 
+  SQUARE     1.10000                     0.000 NO     DARK 
+  SQUARE     1.30000                     0.000 NO     DARK 
+  SQUARE     1.45000                     0.000 NO     DARK 
+  RECTANGLE  0.50000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  0.60000     x 0.50000      90.000 NO     DARK 
+  RECTANGLE  0.89990     x 0.50010       0.000 NO     DARK 
+  RECTANGLE  1.20000     x 0.50000      90.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.50000       0.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.50000      90.000 NO     DARK 
+  RECTANGLE  1.50000     x 2.20000       0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00  90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00  90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 270.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/Schematic and PCB Layout/allegro/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0001
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.15300                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.10000                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.45000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     2.40000                                  DARK 
+  SQUARE     1.10000                     0.000 NO     DARK 
+  SQUARE     1.30000                     0.000 NO     DARK 
+  SQUARE     1.45000                     0.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < OUTLINE >
+     TO FILE < C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/Schematic and PCB Layout/allegro/OUTLINE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0001
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00010                                  DARK 
+
+     OUTLINE created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILKTOP >
+     TO FILE < C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/Schematic and PCB Layout/allegro/SILKTOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0001
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (297.8300 278.0650)
+           ... using undefined line width of 0.0001
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.0001
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00010                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+
+     SILKTOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < PM >
+     TO FILE < C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/Schematic and PCB Layout/allegro/PM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0001
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: more than one pin class in film record
+    WARNING: more than one via class in film record
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (300.0375 282.3444).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (301.5375 282.3444).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (303.0546 285.2018).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (301.5546 285.2018).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_1D2_0D5 at (301.5574 288.3259).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_1D2_0D5 at (303.4574 288.3259).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_1D2_0D5 at (302.5074 288.3259).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_1D2_0D5 at (301.5574 290.6759).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_1D2_0D5 at (303.4574 290.6759).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (301.5546 292.8601).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (303.0546 292.8601).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (304.2559 298.9909).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D1_0D6 at (302.7283 300.5561).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (302.7266 298.9979).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (302.7266 297.4979).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D1_0D6 at (302.7283 303.1561).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D1_0D6 at (303.6783 303.1561).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_1D4_1D5 at (306.1550 285.5300).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_1D4_1D5 at (306.1550 288.3300).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (305.7559 298.9909).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D1_0D6 at (304.6283 300.5561).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (306.9928 298.9881).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (306.9928 300.4881).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D1_0D6 at (304.6283 303.1561).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (304.7301 307.7742).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (306.2301 307.7742).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (304.6557 305.3399).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (306.1557 305.3399).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (311.3646 293.4512).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (312.8486 290.7366).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (314.3486 290.7366).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (312.8646 293.4512).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (326.5749 290.9273).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (325.0749 290.9273).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (327.9260 290.9312).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (327.0000 294.8600).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (327.0150 293.5300).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (328.3175 300.2002).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (328.3175 301.7002).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D55_0D6 at (331.6281 281.9664).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (329.8200 285.8682).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (329.8200 287.3682).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D55_0D6 at (331.6281 287.3664).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (331.7098 292.3341).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (331.3098 292.3341).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (330.9098 292.3341).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (331.7103 291.3238).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (331.7103 289.8238).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (329.4260 290.9312).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDSQUARE_2D8_WITH_TERM at (332.3098 294.2591).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (330.3848 292.8591).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (330.3848 293.2591).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (330.3848 293.6591).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (330.3848 294.0591).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (330.3848 294.4591).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (330.3848 294.8591).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (330.3848 295.2591).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (330.3848 295.6591).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (330.9098 296.1841).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (331.3098 296.1841).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (331.7098 296.1841).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (328.5000 294.8600).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (328.5150 293.5300).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_0D5_1D0 at (328.6580 298.7506).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_0D5_1D0 at (329.7580 298.7506).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (329.7575 300.1812).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (332.0719 299.4629).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (332.0719 297.9629).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (329.7575 301.6812).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (335.4641 279.9069).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (335.4641 278.4069).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (332.9010 279.9227).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (332.9010 278.4227).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D55_0D6 at (335.4381 281.9664).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D55_0D6 at (334.1681 281.9664).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D55_0D6 at (332.8981 281.9664).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D55_0D6 at (332.8981 287.3664).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D55_0D6 at (334.1681 287.3664).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D55_0D6 at (335.4381 287.3664).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (333.7098 292.3341).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (333.3098 292.3341).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (332.9098 292.3341).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (332.5098 292.3341).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (332.1098 292.3341).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (335.5000 291.3000).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (334.2348 295.6591).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (334.2348 295.2591).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (334.2348 294.8591).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (334.2348 294.4591).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (334.2348 294.0591).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (334.2348 293.6591).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (334.2348 293.2591).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (334.2348 292.8591).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (332.1098 296.1841).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (332.5098 296.1841).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (332.9098 296.1841).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (333.3098 296.1841).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D2_0D55 at (333.7098 296.1841).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (335.5105 296.3079).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (335.5000 292.8000).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (333.7074 298.5595).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (335.2074 298.5595).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (333.6991 300.2411).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (333.7050 303.0634).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (335.2050 303.0634).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (333.7070 304.4297).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (333.6991 301.7411).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (333.7070 305.9297).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (337.9750 292.5450).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_0D6_0D5 at (339.8900 295.3450).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_0D6_0D5 at (339.8900 296.3450).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_0D6_0D5 at (339.1900 296.3450).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_0D6_0D5 at (339.1900 295.3450).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (337.0105 296.3079).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (337.9750 294.0450).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_1D4_1D5 at (350.1641 280.1528).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_1D5_2D2 at (350.2767 291.1911).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_1D4_1D5 at (352.9641 280.1528).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_1D5_2D2 at (353.3767 291.1911).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (362.2348 280.2859).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (361.4030 282.8094).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (362.9030 282.8094).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (362.2348 281.7859).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (362.9195 285.3398).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (361.4195 285.3398).
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  RECTANGLE  0.50000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  0.60000     x 0.50000      90.000 NO     DARK 
+  RECTANGLE  1.15000     x 0.45000      90.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.50000       0.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.50000      90.000 NO     DARK 
+  RECTANGLE  1.50000     x 2.20000       0.000 NO     DARK 
+  FLASH SYM  CC2640THERMAL             270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00  90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00  90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 270.000 NO     DARK 
+
+     PM created with warnings
+
+
+================================================================
+     PROCESSING FILM < SM >
+     TO FILE < C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/Schematic and PCB Layout/allegro/SM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0001
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.10000                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.45000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     2.40000                                  DARK 
+  SQUARE     1.00000                     0.000 NO     DARK 
+  SQUARE     1.10000                     0.000 NO     DARK 
+  SQUARE     1.30000                     0.000 NO     DARK 
+  SQUARE     1.45000                     0.000 NO     DARK 
+  RECTANGLE  0.50000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  0.60000     x 0.50000      90.000 NO     DARK 
+  RECTANGLE  1.20000     x 0.50000      90.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.50000       0.000 NO     DARK 
+  RECTANGLE  1.40000     x 1.50000      90.000 NO     DARK 
+  RECTANGLE  1.50000     x 2.20000       0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00  90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00  90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 270.000 NO     DARK 
+
+     SM created with warnings
+
+
+================================================================
+     PROCESSING FILM < FM >
+     TO FILE < C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/Schematic and PCB Layout/allegro/FM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0001
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: more than one pin class in film record
+    WARNING: more than one via class in film record
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (300.0375 282.3444).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (301.5375 282.3444).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (303.0546 285.2018).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (301.5546 285.2018).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_1D2_0D5 at (301.5574 288.3259).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_1D2_0D5 at (303.4574 288.3259).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_1D2_0D5 at (302.5074 288.3259).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_1D2_0D5 at (301.5574 290.6759).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_RECT_1D2_0D5 at (303.4574 290.6759).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (301.5546 292.8601).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (303.0546 292.8601).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (304.2559 298.9909).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D1_0D6 at (302.7283 300.5561).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (302.7266 298.9979).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (302.7266 297.4979).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D1_0D6 at (302.7283 303.1561).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D1_0D6 at (303.6783 303.1561).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (305.7559 298.9909).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D1_0D6 at (304.6283 300.5561).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (306.9928 298.9881).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (306.9928 300.4881).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D1_0D6 at (304.6283 303.1561).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (304.7301 307.7742).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (306.2301 307.7742).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (304.6557 305.3399).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (306.1557 305.3399).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (311.3646 293.4512).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (312.8486 290.7366).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (314.3486 290.7366).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (312.8646 293.4512).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (326.5749 290.9273).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (325.0749 290.9273).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (327.9260 290.9312).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (327.0000 294.8600).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (327.0150 293.5300).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (328.3175 300.2002).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (328.3175 301.7002).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D55_0D6 at (331.6281 281.9664).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (329.8200 285.8682).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (329.8200 287.3682).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D55_0D6 at (331.6281 287.3664).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (331.7103 291.3238).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (331.7103 289.8238).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (329.4260 290.9312).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (328.5000 294.8600).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (328.5150 293.5300).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (329.7575 300.1812).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (332.0719 299.4629).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (332.0719 297.9629).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (329.7575 301.6812).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (335.4641 279.9069).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (335.4641 278.4069).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (332.9010 279.9227).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (332.9010 278.4227).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D55_0D6 at (335.4381 281.9664).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D55_0D6 at (334.1681 281.9664).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D55_0D6 at (332.8981 281.9664).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D55_0D6 at (332.8981 287.3664).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D55_0D6 at (334.1681 287.3664).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_1D55_0D6 at (335.4381 287.3664).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (335.5000 291.3000).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (335.5105 296.3079).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (335.5000 292.8000).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (333.7074 298.5595).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (335.2074 298.5595).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (333.6991 300.2411).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (333.7050 303.0634).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (335.2050 303.0634).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (333.7070 304.4297).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (333.6991 301.7411).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (333.7070 305.9297).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (337.9750 292.5450).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (337.0105 296.3079).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (337.9750 294.0450).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (362.2348 280.2859).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (361.4030 282.8094).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (362.9030 282.8094).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (362.2348 281.7859).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (362.9195 285.3398).
+    WARNING: Null REGULAR-PAD specified for padstack SMD_ROUNDRECT_0D5_0D9 at (361.4195 285.3398).
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  RECTANGLE  1.20000     x 0.50000      90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00   0.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00  90.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 180.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 270.000 NO     DARK 
+  PAD SHAPE  ROUNDED_RECTANGLE ,500.00 270.000 NO     DARK 
+
+     FM created with warnings
+
+
+================================================================
+     PROCESSING FILM < SM_BOTTOM >
+     TO FILE < C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/Schematic and PCB Layout/allegro/SM_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0001
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.10000                                  DARK 
+  CIRCLE     1.30000                                  DARK 
+  CIRCLE     1.45000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     2.40000                                  DARK 
+  SQUARE     1.10000                     0.000 NO     DARK 
+  SQUARE     1.30000                     0.000 NO     DARK 
+  SQUARE     1.45000                     0.000 NO     DARK 
+
+     SM_BOTTOM created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        BOTTOM created with warnings
+        OUTLINE created with warnings
+        SILKTOP created with warnings
+        PM created with warnings
+        SM created with warnings
+        FM created with warnings
+        SM_BOTTOM created with warnings
+
+ ARTWORK had warnings

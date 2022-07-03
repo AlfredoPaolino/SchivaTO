@@ -1,0 +1,31 @@
+\t (00:00:00) padstack_editor 17.2 S079 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Tue Jan 11 15:20:12 2022
+\t (00:00:00)         Host=LAPTOP-A44K7QVN User=Vincenzo Petrolo Pid=10496 CPUs=16
+\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\padstack_editor.exe C:\Users\Vincenzo Petrolo\OneDrive - Politecnico di Torino\Desktop\SchivaTO\Schematic and PCB Layout\PadstackLibrary\pth_c1d1.pad
+\t (00:00:00) 
+\d (00:00:03) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:07) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:09) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:11) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Regular Pad"
+\d (00:00:11) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
+\d (00:00:16) QtSignal GuidedDesignLayersTab PadDiameter editingFinished 1.6000
+\d (00:00:16) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged
+\d (00:00:17) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Regular Pad"
+\d (00:00:17) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
+\d (00:00:17) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:17) QtSignal 1
+\d (00:00:17) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 67 67108864 false 1 +
+\d (00:00:17) QtSignal 
+\d (00:00:18) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
+\d (00:00:18) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Regular Pad" 2 2
+\d (00:00:18) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:18) QtSignal 1
+\d (00:00:18) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 86 67108864 false 1 +
+\d (00:00:18) QtSignal 
+\d (00:00:18) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged
+\d (00:00:20) QtSignal MainWindow Save triggered
+\d (00:00:21) QtSignal pseCheckBrowser Close clicked
+\d (00:00:22) QtFillin Yes
+\t (00:00:24)     Journal end - Tue Jan 11 15:20:36 2022

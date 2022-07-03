@@ -1,0 +1,99 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : SCHIVATO.brd                                  )
+(    Software Version : 17.2S079                                      )
+(    Date/Time        : Sun Dec 26 15:08:51 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sun Dec 26 15:08:51 2021				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/USERS/VINCENZO PETROLO/ONEDRIVE - POLITECNICO DI TORINO/DESKTOP/SCHIVATO/SCHEMATIC AND PCB LAYOUT/allegro/SCHI~
+VATO.brd'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.2/share/local/pcb/symbols 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+           C:/ORCAD_PERSONAL_LIBRARY/FOOTPRINTS 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/FootprintLibrary/ 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/SchivaTO/FootprintLibrary/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.2/share/local/pcb/padstacks 
+           c:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+           C:/ORCAD_PERSONAL_LIBRARY/PADSTACKS 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/PadstackLibrary/ 
+           C:/Users/Vincenzo Petrolo/OneDrive - Politecnico di Torino/Desktop/SchivaTO/SchivaTO/PadstackLibrary/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'VIA_0D3_0D8_UNCOVERED', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'VIA_0D3_0D6_UNCOVERED', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'VIA_0D3_0D6_TENTED', in directory search path.
+
+'VIA'  pad stack refresh starting.
+
+     'VIA'  pad stack refreshed successfully.
+     
+WARNING(SPMHNI-253): Unable to find pad stack, 'SMD_RECT_0D6_0D5', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'SMD_RECT_0D5_1D0', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'SMD_ROUNDRECT_1D55_0D6', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'PTH_SQ1D45', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'PTH_C0D95', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'SMD_ROUNDRECT_1D1_0D6', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'SMD_RECT_1D2_0D5', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'PTH_C2D4NOPLATE', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'PTH_C1D1', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'SMD_ROUNDSQUARE_2D8_WITH_TERM', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'SMD_ROUNDRECT_0D2_0D55', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'PTH_C0D6', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'PTH_SQ0D7', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'PTH_C0D7', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'SMD_RECT_1D5_2D2', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'SMD_ROUNDRECT_0D5_0D9', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'PTH_C0D9', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'PTH_SQ0D9', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'SMD_RECT_0D5_0D9_ANTENNA_NO_MASKS', in directory search path.
+
+WARNING(SPMHNI-253): Unable to find pad stack, 'SMD_RECT_0D5_0D5_ANTENNA_NO_MASKS', in directory search path.
+
+WARNING(SPMHNI-286): Completed refreshing all pad stacks successfully. Warnings detected.
